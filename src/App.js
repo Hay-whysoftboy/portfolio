@@ -6,7 +6,7 @@ import web1 from './assest/web1.png';
 import web2 from './assest/web2.png';
 import web3 from './assest/web3.png';
 import web4 from './assest/web4.png';
-// import {Link} from 'react-router-dom'
+
 
 function App() {
 
@@ -54,9 +54,7 @@ function App() {
             <p className="text-gray-800 py-1">Visual Studio code</p>
             <p className="text-gray-800 py-1">Figma</p>
           </div>
-      {/* <div>
-<Link to={'https://github.com/Hay-whysoftboy/clone_pigyyvest'}>Github</Link>
-      </div> */}
+    
         
       </section>
       <section>
